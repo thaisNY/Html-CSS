@@ -1,0 +1,5 @@
+< meta name="descreption" contente="Resumo sobre a página que ao compartilhar o seu link vai aparecer como descrição
+também ajuda o google a hanckar o seu conteúdo.">
+Colocar uma img no head faz com que ao compartilhar o link da página essa imagem seja exebida
+<img src="" alt="Paris"> O alt vai fazer que caso ocorra um erro ao carregar a página, a descrição da imagem vai ser
+exebida.
